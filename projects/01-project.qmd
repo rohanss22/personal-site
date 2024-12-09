@@ -1,0 +1,9 @@
+---
+title: Project 1
+---
+
+some
+
+```{r}
+rnorm(100) |> hist()
+```

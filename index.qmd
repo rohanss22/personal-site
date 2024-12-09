@@ -8,12 +8,14 @@ about:
       text: Github
       href: https://github.com/rohanss22
     - text: Linkedin
-      url: "www.linkedin.com/in/rohansaklani/" 
+      url: "https://www.linkedin.com/in/rohansaklani/"
     - text: Email
       url: "mailto:rsaklani2003@gmail.com"
+      icon: inbox-fill
+toc: false
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+Rohan Saklani is currently a 4th-year Statistics and Data Science student at UCLA. He has completed 2 internships in Data Analytics and Business Intelligence with various projects in SQL, R, Python, Tableau, Power BI, and more.
 
 ## Education
 
