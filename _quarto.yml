@@ -10,9 +10,6 @@ website:
       - href: projects.qmd
         text: Projects
       
-page-footer:
-  right: "&copy, 2024, Rohan Saklani"
-  
 format:
   html:
     theme: default

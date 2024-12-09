@@ -1,21 +1,21 @@
 ---
-title: "Projects"
 toc: false
-listing:
-    - id: project-listing
-      contents: 
-        - "/projects/*.qmd"
-      sort: false
-      sort-ui: false
-      filter-ui: false
-      type: table
-      fields:
-        - title
-      categories: false
-    
 ---
 
----
+## Project 1
+
+Snake Image Classification using Python
+
+
+Here is [[Project 1]](/project1.pdf "PDF").
+
+
+## Project 2
+
+Medical Insurance Analysis using Tableau
+
+Here is [[Project 2]](/project2.pdf "PDF").
+
 
 :::project-listing
 :::

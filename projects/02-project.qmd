@@ -1,9 +1,0 @@
----
-title: Project 2
----
-
-some
-
-```{r}
-rnorm(100) |> hist()
-```
