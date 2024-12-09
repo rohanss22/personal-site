@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-I am currently
+I am currently a 4th-year Statistics and Data Science student at UCLA.
