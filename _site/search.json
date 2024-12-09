@@ -4,13 +4,27 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am currently a 4th-year Statistics and Data Science student at UCLA."
+    "text": "I am currently a 4th-year Statistics and Data Science student at UCLA. I have completed 2 internships in Data Analytics and Business Intelligence with various projects in SQL, R, Python, Tableau, Power BI, and more."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal-site",
+    "title": "Rohan Saklani",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Rohan Saklani",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S. in Statistics and Data Science | Sep 2021 - Jun 2025"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Rohan Saklani",
+    "section": "Experience",
+    "text": "Experience\nL’Oréal | Data Analyst Intern | Jun 2024 - Aug 2024\nMalwarebytes | Business Intelligence Intern | Jun 2022 - Sep 2022"
   }
 ]

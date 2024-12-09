@@ -1,5 +1,6 @@
 ---
 title: "About"
+toc: false
 ---
 
-I am currently a 4th-year Statistics and Data Science student at UCLA.
+I am currently a 4th-year Statistics and Data Science student at UCLA. I have completed 2 internships in Data Analytics and Business Intelligence with various projects in SQL, R, Python, Tableau, Power BI, and more.

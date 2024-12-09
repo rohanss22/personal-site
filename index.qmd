@@ -1,11 +1,26 @@
 ---
-title: "personal-site"
+title: "Rohan Saklani"
+about:
+  template: trestles
+  image: profile.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/rohanss22
+    - text: Linkedin
+      url: "www.linkedin.com/in/rohansaklani/" 
+    - text: Email
+      url: "mailto:rsaklani2003@gmail.com"
 ---
 
-This is a Quarto website.
+Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+University of California, Los Angeles | Los Angeles, CA B.S. in Statistics and Data Science | Sep 2021 - Jun 2025
+
+## Experience
+
+L'Oréal | Data Analyst Intern | Jun 2024 - Aug 2024
+
+Malwarebytes | Business Intelligence Intern | Jun 2022 - Sep 2022
